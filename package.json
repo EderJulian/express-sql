@@ -1,0 +1,20 @@
+{
+  "name": "express-y-mysql",
+  "version": "1.0.0",
+  "description": "Express-y-Mysql\r https://docs.google.com/document/d/1AihfQ2WF8dqoM1GhQsOlBkR4wdb9WaSAi-nawcuCPQk/edit?usp=sharing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
